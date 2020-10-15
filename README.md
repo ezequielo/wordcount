@@ -1,6 +1,6 @@
 ### Word Count App
 
-#####Key features
+##### Key features
 
 - Enable to process large text files
 - Allowed extensions: [.txt]
@@ -16,18 +16,18 @@ Pre-requisites:
 
 
 
-#####Usage:
+##### Usage:
 
 `python main.py --filepath <path_to_file>`
 
 
-#####Run tests:
+##### Run tests:
 
 `python -m unittest discover wordcount -v`
 
 
 
-#####Venv setting:
+##### Venv setting:
 - Create a virtualenv:
 
 `python3 -m venv venv`
